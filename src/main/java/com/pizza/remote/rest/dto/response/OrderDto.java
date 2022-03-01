@@ -1,8 +1,8 @@
 package com.pizza.remote.rest.dto.response;
 
-import pizzaApplication.domain.model.OrderStatusType;
-import pizzaApplication.remote.rest.dto.request.PersonOrderDto;
-import pizzaApplication.remote.rest.dto.request.PizzaOrderDto;
+import com.pizza.domain.model.OrderStatusType;
+import com.pizza.remote.rest.dto.request.PersonOrderDto;
+import com.pizza.remote.rest.dto.request.PizzaOrderDto;
 
 import java.util.List;
 

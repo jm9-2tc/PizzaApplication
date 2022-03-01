@@ -1,4 +1,4 @@
-package pizzaApplication.remote.rest.dto.request;
+package com.pizza.remote.rest.dto.request;
 
 import java.util.List;
 

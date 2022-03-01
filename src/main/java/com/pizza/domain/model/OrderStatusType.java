@@ -1,4 +1,4 @@
-package pizzaApplication.domain.model;
+package com.pizza.domain.model;
 
 public enum OrderStatusType {
     NEW,

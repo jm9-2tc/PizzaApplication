@@ -1,4 +1,4 @@
-package pizzaApplication.remote.rest.dto.request;
+package com.pizza.remote.rest.dto.request;
 
 public class PersonOrderDto {
     private String name;

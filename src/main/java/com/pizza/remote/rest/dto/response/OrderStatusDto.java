@@ -1,7 +1,7 @@
 package com.pizza.remote.rest.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import pizzaApplication.domain.model.OrderStatusType;
+import com.pizza.domain.model.OrderStatusType;
 
 import java.util.Date;
 
