@@ -20,4 +20,19 @@ public class PizzaEntity {
     @OneToMany(mappedBy = "pizza", orphanRemoval = true)
     private Set<PizzaSizeEntity> sizes;
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Set<PizzaSizeEntity> getSizes() {
+        return sizes;
+    }
+
+    public void setSizes(Set<PizzaSizeEntity> sizes) {
+        this.sizes = sizes;
+    }
 }
